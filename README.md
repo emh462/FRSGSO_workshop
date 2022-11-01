@@ -1,1 +1,3 @@
 # FRSGSO_workshop
+
+METADATA
